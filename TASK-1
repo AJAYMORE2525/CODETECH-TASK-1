@@ -1,0 +1,117 @@
+/*A Personal Portfolio Website is a one-page site that showcases your skills, projects, and contact info to potential employers or clients. 
+It's built using HTML and CSS and designed to be clean, responsive, and easy to customize*/
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name - Portfolio</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px 0;
+    }
+    nav {
+      width: 90%;
+      margin: auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    nav ul {
+      list-style: none;
+      display: flex;
+    }
+    nav ul li {
+      margin-left: 20px;
+    }
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
+    .hero {
+      text-align: center;
+      padding: 60px 20px;
+      background-color: #e2e2e2;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    .project {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-left: 5px solid #333;
+    }
+    footer {
+      text-align: center;
+      background: #333;
+      color: white;
+      padding: 20px;
+    }
+    a {
+      color: #0077cc;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <h1>Ajay More</h1>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Hello, I'm Ajay More</h2>
+    <p>Web Developer | Designer | Tech Enthusiast</p>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a web developer with experience in HTML, CSS, JavaScript, and modern frameworks.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Portfolio Website</h3>
+      <p>A personal portfolio site built using HTML and CSS to showcase my work.</p>
+      <a href="#">View Project</a>
+    </div>
+    <div class="project">
+      <h3>Weather App</h3>
+      <p>An app that fetches weather data using an API and displays current conditions.</p>
+      <a href="#">View Project</a>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: moreajay2525@gmail.com</p>
+    <p>LinkedIn: <a href="#">www.linkedin.com/in/ajay-more-6b1113320
+</a></p>
+  </section>
+  <footer>
+ <p>© 2025 Ajay More</p>
+  </footer>
+
+</body>
+</html>
