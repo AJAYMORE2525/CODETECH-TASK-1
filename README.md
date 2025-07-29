@@ -24,7 +24,7 @@ Domain: Web Development
 
 # Key Activities
 1.HTML Structure:
-Semantic elements like <header>, <nav>, <section>, and <footer> organize content clearly.
+Semantic elements like header, nav, section, and footer organize content clearly.
 Anchor tags (<a>) create navigation links between sections.
 
 2.CSS Styling:
