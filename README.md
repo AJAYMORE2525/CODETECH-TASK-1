@@ -11,9 +11,13 @@ Domain: Web Development
 
 # Objective
 1.Showcases your identity and skills as a web developer or designer.
+
 2.Highlights your projects with descriptions and links to demonstrate your practical work.
+
 3.Provides contact information so that potential employers, clients, or collaborators can reach out easily.
+
 4.Builds an online presence and personal brand with a clean, professional design.
+
 5.Demonstrates your ability to use HTML and CSS effectively for web development.
 
 # Key Activities
