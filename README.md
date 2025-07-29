@@ -1,8 +1,10 @@
 #CODETECH-TASK-1
-
 Name: AJAY MORE
+
 Company: CODBUD IT SOLUTIONS
+
 ID:KDINT25258 
+
 Domain: Web Development 
 
 # Overview of the project
@@ -24,16 +26,21 @@ Domain: Web Development
 1.HTML Structure:
 Semantic elements like <header>, <nav>, <section>, and <footer> organize content clearly.
 Anchor tags (<a>) create navigation links between sections.
+
 2.CSS Styling:
 Custom styles define layout, colors, padding, font, and spacing.
 Flexbox is used for responsive navigation alignment.
 Consistent theme colors for a professional look.
+
 3.Responsive Design:
 The use of viewport meta tag and flexible layout ensures mobile and desktop compatibility.
+
 4.Single Page Layout:
 All content is contained in one HTML file, allowing smooth scrolling and fast loading.
+
 5.Portfolio Presentation:
 Projects are showcased with a title, description, and link — providing a snapshot of your skills.
+
 6.User Contact Info:
 Simple contact section lets potential clients or employers reach out via email or LinkedIn.
 
